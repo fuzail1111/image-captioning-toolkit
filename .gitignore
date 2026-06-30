@@ -1,0 +1,31 @@
+# Virtual environment
+my_env/
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE / editor settings
+.theia/
+.vscode/
+.idea/
+
+# Hugging Face model cache (if downloaded locally into project)
+.cache/
+*.safetensors
+
+# Generated output (keep examples/ instead, not raw runs)
+captions.txt
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Sample image (optional — remove this line if you want to keep it tracked)
+*.jpg
+*.jpeg
+*.png

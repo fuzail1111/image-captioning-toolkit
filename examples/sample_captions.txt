@@ -1,0 +1,3 @@
+https://upload.wikimedia.org/wikipedia/commons/example_logo.png: the logo of a company
+https://upload.wikimedia.org/wikipedia/commons/example_building.jpg: a tall office building with glass windows
+https://upload.wikimedia.org/wikipedia/commons/example_person.jpg: a man wearing a suit standing in front of a microphone
